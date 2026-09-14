@@ -1,2 +1,0 @@
-GitHub connector audit: version 2.
-中文修改成功。
