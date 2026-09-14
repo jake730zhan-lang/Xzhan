@@ -1,0 +1,2 @@
+GitHub connector audit: version 1.
+中文读写测试。
